@@ -2,8 +2,8 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
 
-  name: FORREPLACE1235-configmap
-  namespace: FORREPLACE1235
+  name: tesd122-configmap
+  namespace: tesd122
 data:
    sql_mode.cnf: |
       [mysqld]
